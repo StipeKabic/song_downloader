@@ -1,3 +1,1 @@
-yt_dlt
-streamlit
-pytube
+ffmpeg
